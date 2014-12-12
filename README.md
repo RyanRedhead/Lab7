@@ -6,7 +6,7 @@ To build code that uses the IR sensors on the robot and the LEDs on the MSP430 t
 
 #Hardware Schematic
 
-
+![Alt Text](https://github.com/RyanRedhead/Lab6/blob/master/Lab7pre.JPG?raw=true)
 
 #Debugging
 
